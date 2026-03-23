@@ -2,7 +2,7 @@
 
 A post-exploitation module for Adaptix C2 that captures images from the target's attached webcam entirely in memory.
 
-**Watermark / Maintainer:** @gostmennnnn
+
 
 ## Features
 - Enumerates available webcams via the Windows Media Foundation API.
